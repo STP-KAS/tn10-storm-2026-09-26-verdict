@@ -6,7 +6,7 @@
 >
 > **Part of [tn-master](https://github.com/STP-KAS/tn-master)**, the map of every TN10 storm. Renamed on 11 Oct 2026 from `tn10-vprogs-final-verdict`; old links redirect here.
 >
-> ← previous storm: [tn10-storm-2026-09-26-r8](https://github.com/STP-KAS/tn10-storm-2026-09-26-r8) | next storm: [tn10-storm-2026-09-27-desk-miners](https://github.com/STP-KAS/tn10-storm-2026-09-27-desk-miners) →
+> ← previous storm: [tn10-storm-2026-09-26-r8](https://github.com/STP-KAS/tn10-storm-2026-09-26-r8) | next storm: [tn10-storm-2026-09-27-desk-miners-public](https://github.com/STP-KAS/tn10-storm-2026-09-27-desk-miners-public) →
 
 > **Experimental only. Not a product.**
 >
