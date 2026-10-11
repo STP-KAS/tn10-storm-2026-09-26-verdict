@@ -3,6 +3,10 @@
 > Good intentions, shaky hands. STP does not know what he is doing. We test, we write down what we think we saw, and that is the whole product. A number here is not the truth. A chart is not the truth. Any other sentence that sounds sure of itself is not the truth either. Do not count any of it as a claim.
 >
 > [Disclaimer](DISCLAIMER.md)
+>
+> **Part of [tn-master](https://github.com/STP-KAS/tn-master)**, the map of every TN10 storm. Renamed on 11 Oct 2026 from `tn10-vprogs-final-verdict`; old links redirect here.
+>
+> ← previous storm: [tn10-storm-2026-09-26-r8](https://github.com/STP-KAS/tn10-storm-2026-09-26-r8) | next storm: [tn10-storm-2026-09-27-desk-miners](https://github.com/STP-KAS/tn10-storm-2026-09-27-desk-miners) →
 
 > **Experimental only. Not a product.**
 >
@@ -12,9 +16,9 @@
 
 **26 Sep 2026. Testnet-10 only. Not Kaspa core. Not an audit. Not advice.**
 
-This verdict reads one document: [STP-KAS/tn10-vprogs-build-opinion](https://github.com/STP-KAS/tn10-vprogs-build-opinion), including [CHECKS.md](https://github.com/STP-KAS/tn10-vprogs-build-opinion/blob/main/CHECKS.md). That opinion is the evidence. This page is the decision. The decision is up for debate. A later measurement listed below replaces it.
+This verdict reads one document: [STP-KAS/tn10-storm-2026-09-26-build-opinion](https://github.com/STP-KAS/tn10-storm-2026-09-26-build-opinion), including [CHECKS.md](https://github.com/STP-KAS/tn10-storm-2026-09-26-build-opinion/blob/main/CHECKS.md). That opinion is the evidence. This page is the decision. The decision is up for debate. A later measurement listed below replaces it.
 
-The opinion already named [biryukovmaxim](https://github.com/biryukovmaxim) on [issue 1](https://github.com/STP-KAS/tn10-vprogs-build-opinion/issues/1). This page does not add a second request. If the mention was noise, kick this desk out.
+The opinion already named [biryukovmaxim](https://github.com/biryukovmaxim) on [issue 1](https://github.com/STP-KAS/tn10-storm-2026-09-26-build-opinion/issues/1). This page does not add a second request. If the mention was noise, kick this desk out.
 
 ## Verdict
 
